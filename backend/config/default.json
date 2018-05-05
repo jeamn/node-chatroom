@@ -1,0 +1,4 @@
+{
+  "dbStr": "mongodb://localhost/nodechat",
+  "port": 8000
+}

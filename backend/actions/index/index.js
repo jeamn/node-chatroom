@@ -1,0 +1,14 @@
+exports.register = require("./register");
+exports.login = require("./login");
+exports.createChatRoom = require("./createChatRoom");
+exports.getChatRooms = require("./getChatRooms");
+exports.getChatRoom = require("./getChatRoom");
+exports.checkLogin = require("./checkLogin");
+exports.logout = require("./logout");
+exports.roomUpload = require("./roomUpload");
+exports.readRoomImg = require("./readRoomImg");
+exports.userUpload = require("./userUpload");
+exports.changeInfo = require("./changeInfo");
+exports.chatHistory = require("./chatHistory");
+exports.readUserImg = require("./readUserImg");
+exports.chatImgUpload = require("./chatImgUpload");
