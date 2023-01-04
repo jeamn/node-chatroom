@@ -17,7 +17,7 @@
     "emoji-mart-vue": "^1.0.3",
     "iview": "^2.8.0",
     "moment": "^2.20.1",
-    "nuxt": "^1.0.0-rc11",
+    "nuxt": "^3.0.0",
     "socket.io-client": "^2.0.4"
   },
   "devDependencies": {
